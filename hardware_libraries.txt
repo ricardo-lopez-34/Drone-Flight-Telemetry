@@ -1,0 +1,5 @@
+1. MPU6050_tockn (by tockn)
+2. Adafruit BMP280 Library (by Adafruit)
+3. Adafruit Unified Sensor (by Adafruit)
+4. Wire (Built-in)
+5. SPI (Built-in)
