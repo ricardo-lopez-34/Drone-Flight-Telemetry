@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+build/
+*.uf2
+*.bin
+*.elf
+flight_logs/*.csv
